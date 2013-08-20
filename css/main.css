@@ -1,7 +1,7 @@
 /* custom styles */
 /* basic customization */
 body {
-    background: url("/images/bg.png");
+    background: url("../images/bg.png");
     margin-bottom: 50px;
 }
 
