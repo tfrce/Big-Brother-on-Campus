@@ -99,6 +99,7 @@ ul.reasons li img {
 /* events */
 ul.events-list li {
     margin-right: 50px;
+    margin-bottom: 20px;
     padding: 0px 20px;
     display: inline;
     height: 250px;
